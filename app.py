@@ -16,7 +16,6 @@ st.write("Analyze customer data and understand churn-related patterns.")
 # Dataset path
 DATA_PATH = os.path.join(
     os.path.dirname(__file__),
-    "data",
     "customer_churn_data.csv"
 )
 
